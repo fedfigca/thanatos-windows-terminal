@@ -1,6 +1,6 @@
 # Thanatos Theme for Windows Terminal
 
-Based on a vsCode theme that you can find [here](https://marketplace.visualstudio.com/items?itemName=fede-crc.thanatos).
+Based on my vsCode theme that you can find [here](https://marketplace.visualstudio.com/items?itemName=fede-crc.thanatos).
 
 It has a dark and light modes and it looks like this:
 
