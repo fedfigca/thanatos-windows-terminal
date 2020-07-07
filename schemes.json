@@ -20,7 +20,8 @@
       "green": "#0099ad",
       "red": "#ce4559",
       "white": "#fef8ec",
-      "yellow": "#d8cb32"
+      "yellow": "#d8cb32",
+      "cursorColor": "#e09887"
     },
     {
       "name": "Thanatos Light",
@@ -42,7 +43,8 @@
       "green": "#008a8e",
       "red": "#e19887",
       "white": "#7899ba",
-      "yellow": "#eaa221"
+      "yellow": "#eaa221",
+      "cursorColor": "#0e639c"
     }
   ]
 }
